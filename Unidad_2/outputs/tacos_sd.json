@@ -1,0 +1,34 @@
+[
+  {
+    "ID":"SDT-001",
+    "Restaurant Name":"Tacos El Gordo",
+    "Score":4.6,
+    "Latitude":32.6305,
+    "Longitude":-117.0601,
+    "Review Snippet":"The adobada is non-negotiable. Authenticity at its peak."
+  },
+  {
+    "ID":"SDT-002",
+    "Restaurant Name":"The Taco Stand",
+    "Score":4.7,
+    "Latitude":32.8427,
+    "Longitude":-117.2731,
+    "Review Snippet":"Handmade tortillas make the Al Pastor truly stand out."
+  },
+  {
+    "ID":"SDT-003",
+    "Restaurant Name":"Las Cuatro Milpas",
+    "Score":4.8,
+    "Latitude":32.7003,
+    "Longitude":-117.1431,
+    "Review Snippet":"Old school charm with the best chorizo in Barrio Logan."
+  },
+  {
+    "ID":"SDT-004",
+    "Restaurant Name":"Lucha Libre Taco Shop",
+    "Score":4.3,
+    "Latitude":32.7441,
+    "Longitude":-117.1724,
+    "Review Snippet":"Get the Undefeated Taco; the salsa bar is top-tier."
+  }
+]
